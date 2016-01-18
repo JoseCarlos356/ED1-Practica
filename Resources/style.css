@@ -1,0 +1,17 @@
+#formPrincipal
+{
+	text-align: center;
+	padding-top: 13%
+}
+
+#Menusuperior
+{
+	text-align: right;
+
+}
+
+input[type=button]
+{
+	border-width: thin;
+	background-color: white;
+}
